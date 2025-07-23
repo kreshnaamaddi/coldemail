@@ -1,0 +1,7 @@
+
+newv/
+vectorstore/
+practice.ipynb
+app/.env
+app/__pycache__/
+
